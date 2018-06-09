@@ -8,6 +8,7 @@ Word Count is similar to linux wc. Its primary usage was to learn about QCommand
 
 ## Slots and signals
 
-It really doesn't show slots and signals. The text box is bound to the slider so (behind the scenes) as the slider position is updated the value that is displayed in the text field is updated. QML bindings made this demo real light work.
+It really doesn't show slots and signals. The text box is bound to the slider so (behind the scenes) as the slider position is updated the value that is displayed in the text field is updated. QML bindings made this demo real light work. The project only works to be deployed to an embedded Linux.
+
 
 
