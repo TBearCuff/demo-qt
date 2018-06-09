@@ -6,9 +6,9 @@ A repository of Qt demos. I created this repository to share some of my samples 
 
 Word Count is similar to linux wc. Its primary usage was to learn about QCommandLineParser. Pass in a filename for a text file and some flags: -w for #words, -l for #lines, -c for #characters, and -m if you want to monitor the changes in the text file (Ctrl-C) to stop the process.
 
-## Slots and signals
+## Signals and slots
 
-It really doesn't show slots and signals. The text box is bound to the slider so (behind the scenes) as the slider position is updated the value that is displayed in the text field is updated. QML bindings made this demo real light work. The project only works to be deployed to an embedded Linux.
+It really doesn't show signals and slotss. The text box is bound to the slider so (behind the scenes) as the slider position is updated the value that is displayed in the text field is updated. QML bindings made this demo real light work. The project only works to be deployed to an embedded Linux.
 
 
 
