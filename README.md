@@ -14,3 +14,7 @@ It really doesn't show signals and slotss. The text box is bound to the slider s
 
 This lab was from a class on Qt and QML. Its objective was to recreate a screen provided by the instructor using QML Rectangles.
 
+## Ball Animation
+
+The ball animation is a QML animation demonstration. It runs on both desktop and Embedded Linux. Click or touch the ball and it rises up. After peaking it will fall and hit the 'ground' with a little bounce. It will roll right and then roll left. Clicking or touching it and it will repeat.
+
