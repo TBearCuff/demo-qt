@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>lab-bouncing-ball1.qml</file>
+        <file>lab-bouncing-ball2.qml</file>
+        <file>lab-bouncing-ball3.qml</file>
+        <file>lab-bouncing-ball4.qml</file>
+        <file>lab-bouncing-ball5.qml</file>
+        <file>sol-bouncing-ball.qml</file>
+        <file>images/ball.png</file>
+        <file>images/ball.svg</file>
+    </qresource>
+</RCC>
