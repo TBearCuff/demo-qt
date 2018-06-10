@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>arrow.svg</file>
+        <file>background.png</file>
+        <file>bluebackground.png</file>
+        <file>bluebutton.png</file>
+        <file>book.svg</file>
+        <file>clear.svg</file>
+        <file>diagonal-gradient.png</file>
+        <file>lab.svg</file>
+        <file>login.png</file>
+        <file>rocket.png</file>
+        <file>rocket.svg</file>
+        <file>signout.png</file>
+        <file>vertical-gradient.png</file>
+    </qresource>
+</RCC>
