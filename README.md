@@ -10,5 +10,7 @@ Word Count is similar to linux wc. Its primary usage was to learn about QCommand
 
 It really doesn't show signals and slotss. The text box is bound to the slider so (behind the scenes) as the slider position is updated the value that is displayed in the text field is updated. QML bindings made this demo real light work. The project only works to be deployed to an embedded Linux.
 
+## Nested Items Lab
 
+This lab was from a class on Qt and QML. Its objective was to recreate a screen provided by the instructor using QML Rectangles.
 
